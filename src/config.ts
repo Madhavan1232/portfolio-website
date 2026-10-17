@@ -1,192 +1,153 @@
 export const config = {
     developer: {
-        name: "Redoyanul",
-        fullName: "Redoyanul Haque",
-        title: "AI & Full-Stack Developer",
-        description: "AI & Full-Stack Developer building intelligent systems and modern web applications. Passionate about machine learning, deep learning, and creating next-gen autonomous agents."
+        name: "Madhavan",
+        fullName: "Madhavan V",
+        title: "Prompt Engineer | Full-Stack Developer",
+        description: "Results-oriented Full-Stack Developer with a strong foundation in React, Spring Boot, and MySQL. Proficient in building efficient applications using Data Structures and Algorithms, with a proven track record of solving 400+ LeetCode problems."
     },
     social: {
-        github: "red1-for-hek",
-        email: "redoyanul1234@gmail.com",
-        location: "Bangladesh"
+        github: "Madhavan1232",
+        email: "madhavanvairavan3@gmail.com",
+        location: "Coimbatore, Tamil Nadu, India",
+        linkedin: "https://www.linkedin.com/in/madhavan-v-55a92b396/"
     },
     about: {
         title: "About Me",
-        description: "I am a self-taught AI & Full-Stack Developer from Bangladesh. I build intelligent systems, chatbots, and modern web applications. My expertise includes Machine Learning, Deep Learning, NLP, and Full-Stack Web Development with React, Node.js, and Python. Currently building next-gen AI Agents and JARVIS-like Personal Assistants. I have a competitive programming mindset and a deep passion for automation. Code is poetry, AI is the canvas."
+        description: "Full-Stack Developer and Software Engineer with a strong foundation in building scalable, reliable, and user-centric web applications. Specialized in modern frontend development using React.js and backend microservices architecture with Java and Spring Boot. Holds hands-on experience delivering end-to-end solutions across diverse domains, including freelancer marketplace platforms, image gallery applications, and local service platforms — combining technical depth with real-world product thinking."
     },
     experiences: [
         {
-            position: "Learning Something New",
-            company: "Self-Development",
-            period: "2025 - Present",
-            location: "Bangladesh",
-            description: "Continuously exploring emerging technologies, researching advanced AI systems, and pushing the boundaries of what's possible in tech.",
+            position: "Prompt Engineer & Full-Stack Developer",
+            company: "AI Workflows · React · Spring Boot",
+            period: "NOW",
+            location: "Coimbatore, India",
+            description: "Designing AI-powered experiences and building full-stack applications with practical backend integrations.",
             responsibilities: [
-                "Researching cutting-edge AI and ML technologies",
-                "Experimenting with new frameworks and tools",
-                "Contributing to open-source projects",
-                "Building innovative personal projects"
+                "Designing AI-powered experiences and building full-stack applications with practical backend integrations",
+                "Specialized in modern frontend development using React.js and backend microservices architecture with Java and Spring Boot",
+                "Solved 400+ problems on LeetCode reflecting deep proficiency in Data Structures and Algorithms"
             ],
-            technologies: ["Research", "Innovation", "Open Source", "New Tech"]
+            technologies: ["AI Workflows", "Prompt Engineering", "React.js", "Spring Boot", "Java", "Python", "REST APIs"]
         },
         {
-            position: "AI Engineer",
-            company: "Freelance & Projects",
+            position: "Software Engineering Intern",
+            company: "HCL",
             period: "2025",
-            location: "Bangladesh",
-            description: "Developing intelligent AI systems, chatbots, and machine learning solutions. Building next-gen conversational AI agents and JARVIS-like personal assistants.",
+            location: "Coimbatore, India",
+            description: "Engineered a full-stack image gallery application aggregating content from 3+ third-party platforms, supporting 500+ media assets with seamless Azure-hosted deployment.",
             responsibilities: [
-                "Building AI-powered chatbots and conversational agents",
-                "Developing machine learning models with TensorFlow and PyTorch",
-                "Working with LLMs and transformer architectures",
-                "Creating autonomous AI systems and automation tools"
+                "Engineered a full-stack image gallery application aggregating content from 3+ third-party platforms",
+                "Supported 500+ media assets with seamless Azure-hosted deployment",
+                "Crafted the platform using React.js and Node.js with REST APIs for image management and authentication",
+                "Integrated three external image APIs for efficient image retrieval and gallery management"
             ],
-            technologies: ["Python", "TensorFlow", "PyTorch", "LLMs", "NLP", "AI Agents"]
+            technologies: ["React.js", "Node.js", "Express", "MySQL", "Azure", "REST APIs"]
         },
         {
-            position: "Full-Stack Developer",
-            company: "Freelance & Projects",
-            period: "2024",
-            location: "Bangladesh",
-            description: "Built complete web applications from frontend to backend. Developed responsive UIs, RESTful APIs, and database solutions for various clients and projects.",
+            position: "Full-Stack Projects",
+            company: "FLEXORA · PIXORA · Academic Systems",
+            period: "2024–2025",
+            location: "Coimbatore, India",
+            description: "Architected marketplace ecosystems and cloud-hosted image galleries utilizing React.js and Spring Boot microservices with 20+ secure REST APIs, JWT-based RBAC, and seamless Azure-hosted deployment.",
             responsibilities: [
-                "Developing full-stack web applications using React and Node.js",
-                "Building RESTful APIs and integrating databases",
-                "Creating responsive and interactive user interfaces",
-                "Deploying and maintaining web applications"
+                "Architected marketplace ecosystems utilizing React.js and Spring Boot microservices",
+                "Built 20+ secure REST APIs for authentication, project management, and freelancer operations",
+                "Implemented JWT-based authentication and role-based access control for secure user access",
+                "Ensured high platform efficiency, transactional integrity, and scalable database schemas"
             ],
-            technologies: ["React", "Node.js", "MongoDB", "Express", "Next.js", "TypeScript"]
+            technologies: ["Spring Boot", "React.js", "MySQL", "Spring Security", "JWT", "REST APIs"]
         },
         {
-            position: "Python Developer",
-            company: "Self-Taught & Projects",
-            period: "2023",
-            location: "Bangladesh",
-            description: "Dove deep into Python programming, building automation scripts, bots, and mastering the fundamentals of software development and problem-solving.",
+            position: "B.Tech in Information Technology",
+            company: "Sri Krishna College of Engineering and Technology",
+            period: "2023–2027",
+            location: "Coimbatore, Tamil Nadu",
+            description: "Bachelor of Technology (B.Tech) in Information Technology from Sri Krishna College of Engineering and Technology. Verified Cumulative GPA: 7.97 / 10.0.",
             responsibilities: [
-                "Learning Python programming and core concepts",
-                "Building automation scripts and Discord bots",
-                "Exploring data structures and algorithms",
-                "Participating in competitive programming"
+                "Bachelor of Technology (B.Tech) in Information Technology • Verified CGPA: 7.97 / 10.0",
+                "Infosys Certified: Java Programming Certification, C++ Professional Certification",
+                "Cisco Certified: Python for Data Science and Network Automation",
+                "Core Mastery: RESTful APIs, System Design, Data Structures & Algorithms"
             ],
-            technologies: ["Python", "Automation", "Scripting", "Discord.py", "Problem Solving"]
-        },
-        {
-            position: "Graphic Designer",
-            company: "Freelance",
-            period: "2022",
-            location: "Bangladesh",
-            description: "Started my creative journey as a graphic designer, creating logos, banners, and visual content. This sparked my passion for technology and digital creation.",
-            responsibilities: [
-                "Designing logos and brand identity materials",
-                "Creating social media graphics and banners",
-                "Working with clients on creative projects",
-                "Learning design principles and visual aesthetics"
-            ],
-            technologies: ["Photoshop", "Illustrator", "Canva", "Figma", "Visual Design"]
-        },
-        {
-            position: "Microsoft Office",
-            company: "Begin Learning",
-            period: "2021",
-            location: "Bangladesh",
-            description: "Started my journey into the digital world by learning Microsoft Office tools. This foundational step introduced me to computers and sparked my curiosity for technology.",
-            responsibilities: [
-                "Learning Microsoft Word, Excel, and PowerPoint",
-                "Creating documents and presentations",
-                "Understanding basic computer operations",
-                "Building foundational digital skills"
-            ],
-            technologies: ["MS Word", "MS Excel", "MS PowerPoint", "Computer Basics"]
+            technologies: ["Java", "Python", "C++", "JavaScript", "SQL", "HTML5", "CSS3"]
         }
     ],
     projects: [
         {
             id: 1,
-            title: "Drishti",
-            category: "AI / LLM",
-            technologies: "Python, PyTorch, Transformers, FastAPI, React, MongoDB",
-            image: "/images/Drishti.png",
-            description: "Bangladesh's first intelligent advanced AI chatbot powered by a custom Large Language Model. Features natural language understanding, contextual conversations, and multilingual support including Bengali.",
-            link: "https://huggingface.co/red1-for-hek/drishti-ilm-x1"
+            title: "Pixora",
+            category: "Image Gallery Platform",
+            technologies: "React.js, Node.js, Express, MySQL, Azure, External Image APIs",
+            image: "/images/pixora.png",
+            description: "Crafted an image gallery platform using React.js and Node.js. Built REST APIs for user authentication and image management, aggregating content from 3+ third-party platforms with Azure-hosted deployment.",
+            link: "https://pixorafrontend.z29.web.core.windows.net/"
         },
         {
             id: 2,
-            title: "VoteChain",
-            category: "Blockchain",
-            technologies: "Solidity, Web3.js, React, Ethereum, IPFS, MetaMask, Node.js",
-            image: "/images/VoteChain.png",
-            description: "A decentralized election system built on blockchain technology ensuring transparent, tamper-proof, and verifiable voting. Features smart contracts for vote integrity and real-time result tracking.",
-            link: "https://github.com/red1-for-hek/smart-election-by-blockchain"
+            title: "Flexora",
+            category: "Freelance Marketplace Platform",
+            technologies: "React.js, Spring Boot, MySQL, Spring Security, JWT, REST APIs",
+            image: "/images/flexora.png",
+            description: "Architected a marketplace ecosystem utilizing React.js and Spring Boot microservices. Built 20+ secure REST APIs for authentication, project management, and freelancer operations with JWT-based RBAC.",
+            link: "https://madhavan1232.github.io/freelance-marketplace/"
+        },
+        {
+            id: 3,
+            title: "ATM Management System",
+            category: "CLI Banking Application",
+            technologies: "Java, Spring Boot, MySQL, Spring Data JPA",
+            image: "/images/atm-terminal.png",
+            description: "Engineered a CLI banking application using Spring Boot with a MySQL backend. Designed a secure login system with a 3-attempt lockout policy, automated account blocking, and an Admin Dashboard for global monitoring.",
+            link: "https://github.com/Madhavan1232/ATMConsoleApplication"
         },
         {
             id: 4,
-            title: "Flood Spaces 2.0",
-            category: "AI / ML",
-            technologies: "Python, TensorFlow, Pandas, React, FastAPI, GIS",
-            image: "/images/FloodSpaces.png",
-            description: "Predicts flood risks across Bangladesh up to one month in advance and sends early alerts to help people prepare.",
-            link: "https://github.com/red1-for-hek/Flood-Spaces-2.0"
+            title: "QuickFix",
+            category: "Local Service Finder",
+            technologies: "Java, Spring Boot, MySQL, REST APIs, Logging",
+            image: "/images/quickfix.png",
+            description: "Created a local service finder application using Java, Spring Boot, and MySQL. Built REST APIs for service listings and booking management, incorporating global exception handling and logging.",
+            link: "https://github.com/Madhavan1232/quickfix"
         },
         {
             id: 5,
-            title: "Phoenix 3.0",
-            category: "AI Assistant",
-            technologies: "Python, Speech Recognition, PyAutoGUI, OpenAI API, Tkinter",
-            image: "/images/Phoenix3.0.png",
-            description: "A JARVIS-inspired personal AI desktop assistant. Controls system functions, manages tasks, answers queries, automates workflows, and provides voice-activated computing experience.",
-            link: "https://github.com/red1-for-hek/phoenix3.0"
+            title: "Internova",
+            category: "Placement Portal",
+            technologies: "React.js, Spring Boot, Java, MySQL, Tailwind CSS, Gemini AI, LeetCode API",
+            image: "/images/internova.png",
+            description: "Full-stack Internship Training & Placement Portal featuring OAuth RBAC, LeetCode stats synchronization, automated Gemini AI resume parsing, and placement analytics dashboards.",
+            link: "https://github.com/LuckyBoy587/Capstone-Project-ITP-System"
         },
         {
             id: 6,
-            title: "RedxChess",
-            category: "AI / Game Engine",
-            technologies: "Python, C++, Neural Networks, Bitboards, UCI Protocol",
-            image: "/images/RedxChess.png",
-            description: "A high-performance chess engine rated 3640 ELO. Features advanced search algorithms, neural network evaluation, and optimized bitboard representation for lightning-fast move generation.",
-            link: "/play"
-        },
-        {
-            id: 7,
-            title: "Prodesk",
-            category: "E-commerce",
-            technologies: "React, Node.js, MongoDB, Express, Stripe",
-            image: "/images/Prodesk.png",
-            description: "A complete e-commerce platform with secure checkout and smooth product browsing.",
-            link: "https://github.com/red1-for-hek/prodesk"
-        },
-        {
-            id: 8,
-            title: "HekTools",
-            category: "Security / Android",
-            technologies: "Kotlin, Android SDK, Firebase, Python, Encryption",
-            image: "/images/hektools.png",
-            description: "An advanced Android monitoring and security research tool. Features remote device management, activity logging, and encrypted data transmission for security testing purposes.",
-            link: ""
+            title: "Quiz App",
+            category: "Frontend Utility",
+            technologies: "React.js, JavaScript, HTML5, CSS3",
+            image: "/images/quiz-app.png",
+            description: "An interactive, responsive React quiz application featuring real-time scoring progression, wrong answer reviews, instant visual feedback, and JSON-driven question pools.",
+            link: "https://madhavan1232.github.io/quizapp/"
         }
     ],
     contact: {
-        email: "redoyanul1234@gmail.com",
-        github: "https://github.com/red1-for-hek",
-        linkedin: "https://linkedin.com/in/red1-for-hek",
-        twitter: "https://x.com/red_1_ul",
-        facebook: "https://www.facebook.com/redoyanulhaque.hacker.official",
-        instagram: "https://www.instagram.com/red_1_ul"
+        email: "madhavanvairavan3@gmail.com",
+        github: "https://github.com/Madhavan1232",
+        linkedin: "https://www.linkedin.com/in/madhavan-v-55a92b396/",
+        twitter: "https://x.com/Maddy__2006",
+        facebook: "https://www.linkedin.com/in/madhavan-v-55a92b396/",
+        instagram: "https://www.instagram.com/maddy_luxe/"
     },
     skills: {
         develop: {
-            title: "AI DEVELOPER",
-            description: "Building intelligent systems & AI solutions",
-            details: "Developing AI agents, chatbots, and machine learning models using Python, TensorFlow, and PyTorch. Specializing in LLMs, NLP, deep learning, and autonomous systems.",
-            tools: ["Python", "TensorFlow", "PyTorch", "OpenCV", "Scikit-learn", "LLMs", "NLP", "Deep Learning", "Chatbots", "AI Agents"]
+            title: "BACKEND & ARCHITECTURE",
+            description: "Spring Boot Microservices, RESTful APIs & System Design",
+            details: "Building reliable, scalable backend applications with Java, Spring Boot, Node.js, and MySQL. Proficient in RESTful API development, JWT-based security, relational database design, and Data Structures & Algorithms.",
+            tools: ["Java", "Spring Boot", "Node.js", "MySQL", "RESTful APIs", "System Design", "Data Structures", "Algorithms", "JWT", "Maven", "Git/GitHub"]
         },
         design: {
-            title: "FULL-STACK",
-            description: "Modern web development & scalable applications",
-            details: "Building responsive and performant web applications using React, Next.js, Node.js, and databases. Creating seamless user experiences with modern UI/UX principles.",
-            tools: ["React", "Next.js", "Node.js", "TypeScript", "MongoDB", "PostgreSQL", "TailwindCSS", "REST APIs", "Docker", "Git"]
+            title: "FRONTEND & WEB DEV",
+            description: "Modern React.js Interfaces & Scalable Frontend Solutions",
+            details: "Crafting modular, interactive, and high-performance web applications using React.js, JavaScript, HTML5, and CSS3. Focused on clean state management, responsive UX, API integrations, and robust web standards.",
+            tools: ["React.js", "JavaScript", "HTML5", "CSS3", "Git/GitHub", "Postman", "Maven", "Python", "C++", "SQL"]
         }
     }
 };
-
-

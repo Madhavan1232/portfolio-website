@@ -502,11 +502,11 @@ h2.landing-info-h2 {
   .landing-info {
     bottom: auto;
     top: 51%;
-    z-index: inherit;
+    z-index: 10;
     text-align: left;
     transform: translate(0%, -50%);
     right: auto;
-    left: 66%;
+    left: 64%;
   }
 }
 
@@ -521,11 +521,11 @@ h2.landing-info-h2 {
   .landing-info {
     bottom: auto;
     top: 51%;
-    z-index: inherit;
+    z-index: 10;
     text-align: left;
     transform: translate(0%, -50%);
     right: auto;
-    left: 70%;
+    left: 64%;
   }
 }
 

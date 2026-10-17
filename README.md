@@ -1,96 +1,64 @@
-# 🚀 3D Developer Portfolio Website (React + TypeScript + Three.js)
+# 🚀 Madhavan V — Prompt Engineer | Full-Stack Developer Portfolio (React + TypeScript + Three.js)
 
-[![3D portfolio preview (click to watch video)](./Screenshot_2026-04-08_22-10-00.png)](./video.mp4)
+[![3D portfolio preview](./Screenshot_2026-04-08_22-10-00.png)](./video.mp4)
 
-A modern, high-performance **3D developer portfolio website** built with **React**, **TypeScript**, **Three.js**, **GSAP**, and **WebGL**.
+A modern, high-performance **3D developer portfolio website** for **Madhavan V**, built with **React**, **TypeScript**, **Three.js**, **GSAP**, and **WebGL**.
 
-If you’re a developer looking for a **portfolio template** that feels premium, interactive, and memorable—this repo is for you.
-
-> Live preview: https://www.redoyanulhaque.me/
+Showcases end-to-end full-stack projects, real-time microservices, cloud deployments, interactive chess with custom AI persona, and interactive technical skills.
 
 ---
 
 ## ✨ Highlights
 
 - **3D / WebGL experience** powered by **Three.js**
-- Smooth animations with **GSAP**
-- Modern **React + TypeScript** codebase
-- Fast, responsive UI (desktop + mobile)
-- Designed for developers, engineers, programmers, and creators
+- Smooth micro-interactions & fluid scroll animations with **GSAP** & **Lenis**
+- Modern **React 18 + TypeScript** modular architecture
+- 7 Featured Projects with rich mockups and live demos
+- Interactive Chess Playground & Portfolio Persona Chat
+- Fast, responsive UI optimized across desktop and mobile devices
 
 ---
 
 ## 🧰 Tech Stack
 
-- **React**
-- **TypeScript**
-- **Three.js / WebGL**
-- **GSAP**
-- **HTML / CSS / JavaScript**
+- **Frontend:** React 18, TypeScript, Tailwind CSS, Three.js, GSAP, Framer Motion
+- **Backend & APIs:** Java 21, Spring Boot, Node.js, Express, REST APIs, WebSockets
+- **Databases:** MySQL, PostgreSQL, MongoDB, Spring Data JPA
+- **Cloud & DevOps:** Microsoft Azure (App Services, CDN), AWS, Docker, Git, Vite
 
 ---
 
 ## 🚀 Getting Started
 
-### 1) Clone
-
+### 1) Clone repository
 ```bash
-git clone https://github.com/red1-for-hek/portfolio-website.git
+git clone https://github.com/Madhavan1232/portfolio-website.git
 cd portfolio-website
 ```
 
-### 2) Install
-
+### 2) Install dependencies
 ```bash
 npm install
 ```
 
-### 3) Run locally
-
+### 3) Run development server
 ```bash
 npm run dev
 ```
 
-### 4) Build
-
+### 4) Production build
 ```bash
 npm run build
 ```
 
 ---
 
-## 🧩 Customize (Quick Guide)
-
-Typical things you’ll want to update:
-
-- **Your name + hero section text**
-- **Projects list**
-- **Social links** (GitHub, LinkedIn, email)
-- **SEO meta title/description**
-
----
-
-## ⭐ Support
-
-If you found this useful:
-
-- Please **star** the repository (it helps a lot)
-- Share it with a friend who needs a portfolio template
-- Sponsor via the **Sponsor** button on GitHub (if available in your region)
-
----
-
 ## 🤝 Connect
 
-- LinkedIn: https://www.linkedin.com/in/red1-for-hek/
-
----
-
-## 🏷️ Recommended GitHub Topics (add in repo settings)
-
-Add these topics to improve GitHub search visibility:
-
-`portfolio` `developer-portfolio` `portfolio-website` `portfolio-template` `3d-portfolio` `react` `typescript` `threejs` `webgl` `gsap` `frontend` `vite`
+- **GitHub:** [https://github.com/Madhavan1232](https://github.com/Madhavan1232)
+- **LinkedIn:** [https://www.linkedin.com/in/madhavan-v-586343305/](https://www.linkedin.com/in/madhavan-v-586343305/)
+- **Instagram:** [https://www.instagram.com/maddy_luxe/](https://www.instagram.com/maddy_luxe/)
+- **Email:** [madhavanvairavan3@gmail.com](mailto:madhavanvairavan3@gmail.com)
 
 ---
 

@@ -100,16 +100,7 @@ const Contact = () => {
               data-cursor="disable"
               className="contact-social"
             >
-              Twitter <MdArrowOutward />
-            </a>
-            <a
-              href={config.contact.facebook}
-              target="_blank"
-              rel="noopener noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Facebook <MdArrowOutward />
+              Twitter / X <MdArrowOutward />
             </a>
             <a
               href={config.contact.instagram}
@@ -119,6 +110,15 @@ const Contact = () => {
               className="contact-social"
             >
               Instagram <MdArrowOutward />
+            </a>
+            <a
+              href="/assets/madhavan-resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              data-cursor="disable"
+              className="contact-social"
+            >
+              Resume <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
