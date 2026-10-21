@@ -112,7 +112,7 @@ const Contact = () => {
               Instagram <MdArrowOutward />
             </a>
             <a
-              href="/assets/madhavan-resume.pdf"
+              href={config.contact.resume}
               target="_blank"
               rel="noopener noreferrer"
               data-cursor="disable"

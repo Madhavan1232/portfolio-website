@@ -83,7 +83,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/assets/madhavan-resume.pdf"
+        href={config.contact.resume}
         target="_blank"
         rel="noopener noreferrer"
         download="Madhavan_V_Resume.pdf"

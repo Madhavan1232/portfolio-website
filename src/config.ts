@@ -134,7 +134,8 @@ export const config = {
         linkedin: "https://www.linkedin.com/in/madhavan-v-55a92b396/",
         twitter: "https://x.com/Maddy__2006",
         facebook: "https://www.linkedin.com/in/madhavan-v-55a92b396/",
-        instagram: "https://www.instagram.com/maddy_luxe/"
+        instagram: "https://www.instagram.com/maddy_luxe/",
+        resume: "/assets/madhavan-resume.pdf"
     },
     skills: {
         develop: {
