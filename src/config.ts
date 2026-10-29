@@ -75,6 +75,15 @@ export const config = {
     projects: [
         {
             id: 1,
+            title: "GrandFish",
+            category: "Chess AI Engine",
+            technologies: "React.js, Stockfish AI, Chess.js, React-Chessboard, Web Workers",
+            image: "/images/grand-fish.png",
+            description: "Interactive browser-based chess web application powered by the Stockfish AI engine. Play against the AI with difficulty levels ranging from basic to master, featuring real-time move validation and game clock.",
+            link: "https://grand-fish.vercel.app/"
+        },
+        {
+            id: 2,
             title: "Pixora",
             category: "Image Gallery Platform",
             technologies: "React.js, Node.js, Express, MySQL, Azure, External Image APIs",
@@ -83,7 +92,7 @@ export const config = {
             link: "https://pixorafrontend.z29.web.core.windows.net/"
         },
         {
-            id: 2,
+            id: 3,
             title: "Flexora",
             category: "Freelance Marketplace Platform",
             technologies: "React.js, Spring Boot, MySQL, Spring Security, JWT, REST APIs",
@@ -92,7 +101,7 @@ export const config = {
             link: "https://madhavan1232.github.io/freelance-marketplace/"
         },
         {
-            id: 3,
+            id: 4,
             title: "ATM Management System",
             category: "CLI Banking Application",
             technologies: "Java, Spring Boot, MySQL, Spring Data JPA",
@@ -101,7 +110,7 @@ export const config = {
             link: "https://github.com/Madhavan1232/ATMConsoleApplication"
         },
         {
-            id: 4,
+            id: 5,
             title: "QuickFix",
             category: "Local Service Finder",
             technologies: "Java, Spring Boot, MySQL, REST APIs, Logging",
@@ -110,7 +119,7 @@ export const config = {
             link: "https://github.com/Madhavan1232/quickfix"
         },
         {
-            id: 5,
+            id: 6,
             title: "Internova",
             category: "Placement Portal",
             technologies: "React.js, Spring Boot, Java, MySQL, Tailwind CSS, Gemini AI, LeetCode API",
@@ -119,7 +128,7 @@ export const config = {
             link: "https://github.com/LuckyBoy587/Capstone-Project-ITP-System"
         },
         {
-            id: 6,
+            id: 7,
             title: "Quiz App",
             category: "Frontend Utility",
             technologies: "React.js, JavaScript, HTML5, CSS3",
